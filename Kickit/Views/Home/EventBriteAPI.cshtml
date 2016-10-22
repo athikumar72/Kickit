@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Kickit.API.EventBriteEvent>
+
+@{
+    ViewBag.Title = "Events";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<head>
+
+    <link href="~/Content/CyborgTheme.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Making It Happen</title>
+</head>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EventUrl)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTime)
+            </td>
+            <td>
+                <a href="@item.EventUrl" target="_blank"> @Html.DisplayFor(modelItem => item.EventUrl) </a>
+            </td>
+        </tr>
+    }
+
+</table>

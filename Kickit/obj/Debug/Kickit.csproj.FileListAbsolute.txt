@@ -1,0 +1,185 @@
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\ApplicationInsights.config
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\csc.exe
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\vbc.exe
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\VBCSCompiler.exe
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Kickit.dll.config
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Kickit.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Kickit.pdb
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Antlr3.Runtime.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\EntityFramework.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\EntityFramework.SqlServer.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.Web.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Newtonsoft.Json.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Owin.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Helpers.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Mvc.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Optimization.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Razor.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.WebPages.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.WebPages.Razor.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\WebGrease.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.Web.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Helpers.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Mvc.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Optimization.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.Razor.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.WebPages.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\System.Web.WebPages.Razor.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Antlr3.Runtime.pdb
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Newtonsoft.Json.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\EntityFramework.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\EntityFramework.SqlServer.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.csprojResolveAssemblyReference.cache
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.InitialModel.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.AddRecipientFromId.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.RemoveRecipientFromId.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.AddRecipientFormId.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.DeleteLineFromInvitorModel.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.RemoveForeignKey.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.csproj.GenerateResource.Cache
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.pdb
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\obj\Debug\Kickit.Migrations.AddedValidation.resources
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\RestSharp.dll
+C:\Users\ATHIKUMAR\Documents\Final Project\Kickit\Kickit\bin\RestSharp.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\ApplicationInsights.config
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\csc.exe
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\vbc.exe
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\VBCSCompiler.exe
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Kickit.dll.config
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Kickit.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Kickit.pdb
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Antlr3.Runtime.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\EntityFramework.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\EntityFramework.SqlServer.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.Web.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Newtonsoft.Json.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Owin.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\RestSharp.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Helpers.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Mvc.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Optimization.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Razor.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.WebPages.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.WebPages.Razor.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\WebGrease.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.Web.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\RestSharp.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Helpers.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Mvc.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Optimization.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.Razor.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.WebPages.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\System.Web.WebPages.Razor.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Antlr3.Runtime.pdb
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Newtonsoft.Json.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\EntityFramework.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\EntityFramework.SqlServer.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.InitialModel.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.AddRecipientFromId.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.RemoveRecipientFromId.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.AddRecipientFormId.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.DeleteLineFromInvitorModel.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.RemoveForeignKey.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.AddedValidation.resources
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.csproj.GenerateResource.Cache
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.dll
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.pdb
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.csprojResolveAssemblyReference.cache
+C:\Users\ATHIKUMAR\Desktop\Kickit\Kickit\obj\Debug\Kickit.Migrations.CleanupInvitorModel.resources

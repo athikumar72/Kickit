@@ -1,0 +1,54 @@
+﻿
+    @model Kickit.Models.InvitorRecepientModel
+
+@{
+    ViewBag.Title = "RecepientForm";
+
+}
+
+<h2>RecepientForm</h2>
+<body>
+@using (Html.BeginForm())
+
+{   @Html.ValidationSummary();
+
+    <p>
+        Hey    @ViewBag.fromname  @ViewBag.receivername   wants to KickIt!
+    </p>
+    <p>@ViewBag.receivername    is available to KickIt on:</p>
+        <p>(Select a time)</p>
+
+
+
+
+        <p> @Html.RadioButtonFor(x => x.recepientform.DateTime, (string)ViewBag.date1)    @ViewBag.date1</p> //need to pull in date from recepientForm method
+        <p> @Html.RadioButtonFor(x => x.recepientform.DateTime, (string)ViewBag.date2)    @ViewBag.date2</p>
+        <p> @Html.RadioButtonFor(x => x.recepientform.DateTime, (string)ViewBag.date3)    @ViewBag.date3</p>
+   <p></p>
+        
+       <p> Zipcode: @Html.TextBoxFor(x => x.recepientform.Zipcode) </p>
+           
+        <input type="submit" value="KickIt" />
+
+
+        @*  <p>Hey @Model.invitor.ReceiverName, @Model.invitor.FromName wants to KickIt!</p>
+                        <p>@Model.invitor.FromName is available to KickIt on:</p>
+                           <p>(Select a time)</p>
+
+
+            <p> @Html.RadioButtonFor(x => x.recepientform.DateTime1, "Option 1", false) @Html.LabelFor(x => x.invitor.DateTime1)</p> //need to pull in date from invitor model
+                <p> @Html.RadioButtonFor(x => x.recepientform.DateTime2, "Option 2", false)@Html.LabelFor(x => x.invitor.DateTime2)</p>
+                <p> @Html.RadioButtonFor(x => x.recepientform.DateTime3, "Option 3", false)@Html.LabelFor(x => x.invitor.DateTime3)</p>*@
+
+
+
+
+
+
+}
+
+
+
+ 
+</body>
+

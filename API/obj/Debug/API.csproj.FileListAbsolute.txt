@@ -1,0 +1,6 @@
+C:\Users\ATHIKUMAR\Desktop\Kickit\API\bin\Debug\API.exe.config
+C:\Users\ATHIKUMAR\Desktop\Kickit\API\bin\Debug\API.exe
+C:\Users\ATHIKUMAR\Desktop\Kickit\API\bin\Debug\API.pdb
+C:\Users\ATHIKUMAR\Desktop\Kickit\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\ATHIKUMAR\Desktop\Kickit\API\obj\Debug\API.exe
+C:\Users\ATHIKUMAR\Desktop\Kickit\API\obj\Debug\API.pdb

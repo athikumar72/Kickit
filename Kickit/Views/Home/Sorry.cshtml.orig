@@ -1,0 +1,13 @@
+﻿
+
+@{
+    ViewBag.Title = "Sorry";
+}
+
+<h2>Sorry</h2>
+
+<<<<<<< HEAD
+<p>@ViewBag.receiverName   You are not ready for Kickit.</p>
+=======
+<p>@ViewBag.receiverName   Sorry, we need to make sure you are ready.</p>
+>>>>>>> origin/master
